@@ -1,6 +1,21 @@
 ﻿# productmanager-scrumaster
 
+ links https://www.mindtheproduct.com/ 
+ 1. replicate this 
+
+ 2. research https://www.dummies.com/article/business-careers-money/business/marketing/product-management-four-phase-product-life-cycle-246429/
+3. https://www.svpg.com/product-management-start-here/
+4. https://productschool.com/
+
+5. medium redit and ..
+6. https://theproductmanager.com/topics/product-roadmap-template/
+7. Lenny’s Podcast – Deep dives into PM topics.
+This is Product Management – Interviews with top PMs.
+The Product Podcast (Product School)
+YouTube: PM Crash Course by Ex-Google PM
+
 Bringing the Product Manager’s Perspective to Git Workflows
+
 
 As a Product Manager, I’ve always believed in bridging the gap between technical expertise and strategic decision-making. While Git is traditionally seen as a tool for developers, I’ve found it to be a game-changer for my daily operations. Here’s how I’m using Git to ensure seamless project management and collaboration:
 
