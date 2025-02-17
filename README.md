@@ -13,15 +13,16 @@
 Introducing AI Tools for Product Managers
 
  links https://www.mindtheproduct.com/ 
- 1. replicate this 
+ 1. replicate this
+ 2. https://pm.stackexchange.com/
 
- 2. research https://www.dummies.com/article/business-careers-money/business/marketing/product-management-four-phase-product-life-cycle-246429/
-3. https://www.svpg.com/product-management-start-here/
-4. https://productschool.com/
+ 3. research https://www.dummies.com/article/business-careers-money/business/marketing/product-management-four-phase-product-life-cycle-246429/
+4. https://www.svpg.com/product-management-start-here/
+5. https://productschool.com/
 
-5. medium redit and ..
-6. https://theproductmanager.com/topics/product-roadmap-template/
-7. Lenny’s Podcast – Deep dives into PM topics.
+6. medium redit and ..
+7. https://theproductmanager.com/topics/product-roadmap-template/
+8. Lenny’s Podcast – Deep dives into PM topics.
 This is Product Management – Interviews with top PMs.
 The Product Podcast (Product School)
 YouTube: PM Crash Course by Ex-Google PM
