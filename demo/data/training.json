@@ -1,0 +1,18 @@
+[
+  {
+    "question": "My transfer failed. What should I do?",
+    "answer": "Your transfer will be reviewed automatically. If the reversal does not happen within 24 hours, contact support with your transaction reference."
+  },
+  {
+    "question": "How do I complete KYC?",
+    "answer": "To complete KYC, provide your government-issued identification document and BVN."
+  },
+  {
+    "question": "How much can I transfer every day?",
+    "answer": "Your daily transfer limit is ₦500,000."
+  },
+  {
+    "question": "How long does a failed transfer reversal take?",
+    "answer": "A failed transfer is automatically reversed within 24 hours."
+  }
+]
