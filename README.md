@@ -1,6 +1,6 @@
 ﻿# Web3 Product Management Class Repository
 
-Welcome to the official repository for our Web3 Product Management course! This is a collaborative space for students, contributors, and professionals to learn, share, and grow in the Web3 ecosystem.
+Welcome to the official repository for our Product Management course! This is a collaborative space for students, contributors, and professionals to learn, share, and grow in all ecosystem.
 
 ## 📂 Sections
 
@@ -31,7 +31,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Let’s build the future of Web3 together 🌐🚀
+Let’s build the future together 🌐🚀
 Tips
 Use Markdown files (.md) to make content readable directly on GitHub.
 
