@@ -1,6 +1,6 @@
-﻿# Web3 Product Management Class Repository
+﻿# Product Management Opensource  Repository
 
-Welcome to the official repository for our Product Management course! This is a collaborative space for students, contributors, and professionals to learn, share, and grow in all ecosystem.
+Welcome to the official repository for our Product Management! This is a collaborative space for students, contributors, and professionals to learn, share, and grow in all ecosystem.
 
 ## 📂 Sections
 
